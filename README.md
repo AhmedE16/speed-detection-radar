@@ -1,4 +1,5 @@
 AI-Powered Traffic Monitoring & Automated Speed Enforcement System
+
 1.Project Overview
 This project implements an intelligent traffic surveillance system designed to detect, track, and calculate the real-world speed of vehicles using a monocular camera feed. By combining Computer Vision (YOLOv8) with Geometrical Perspective Transformation, the system transforms raw video pixels into actionable traffic data. Unlike standard speed-estimation scripts, this system includes a custom Depth Correction Algorithm to compensate for perspective distortion in high-angle camera placements.
 
