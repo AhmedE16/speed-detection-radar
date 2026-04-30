@@ -18,21 +18,14 @@ Temporal Smoothing: Implements a rolling average (Smoothing Window) to filter ou
 
 Visual Analytics: The output video features dynamic annotations, including "motion traces" (showing the vehicle's path) and color-coded bounding boxes (Red for speeders, Blue for normal traffic).
 
-4-Technical Stack
-
-Language: PythonAI 
-
-Framework: Ultralytics YOLOv8Vision 
-
-Libraries: OpenCV, Supervision (by Roboflow)
-
-Mathematics: NumPy (Linear Algebra & Matrix Transformations)
-
+4-Technical Stack:
+Language: PythonAI. 
+Framework: Ultralytics YOLOv8Vision.
+Libraries: OpenCV, Supervision (by Roboflow).
+Mathematics: NumPy (Linear Algebra & Matrix Transformations).
 Processing: TQDM (Progress Tracking) and VideoSink for frame-by-frame encoding.
 
-5-Potential ApplicationsSmart
+5-Potential ApplicationsSmart:
 City Infrastructure: Automated traffic flow analysis.
-
 Law Enforcement: Unmanned speed trap deployments.
-
 Highway Safety: Real-time detection of reckless driving or illegal stopping.
